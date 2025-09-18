@@ -3,7 +3,6 @@
   
 [![facebook](https://github.com/harutopia0/harutopia0/blob/main/assets/facebook.svg)](https://www.facebook.com/0.harutopia)
 [![instagram](https://github.com/harutopia0/harutopia0/blob/main/assets/insta.svg)](https://www.instagram.com/harutopia.__)
-
 [![discord](https://github.com/harutopia0/harutopia0/blob/main/assets/discord.svg)](https://discord.com/users/678830633304195074)
 [![gmail](https://github.com/harutopia0/harutopia0/blob/main/assets/gmail.svg)](mailto:tran67563@gmail.com?subject=Contact%20from%20Github!)
 
