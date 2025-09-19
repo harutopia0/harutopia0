@@ -36,8 +36,7 @@
   </td>
   </tr>
   </table>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=harutopia0&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%"  />
+  <img src="https://github-profile-trophy.vercel.app?username=harutopia0&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="87%"  />
 </div>
 
 
