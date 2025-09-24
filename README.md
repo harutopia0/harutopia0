@@ -20,7 +20,7 @@
 
 <!-- STATS -->
 <div align="center">
-  <img width="1078" height="133" src="https://github.com/harutopia0/harutopia0/blob/main/assets/github-stats.png" />
+  <img width="900" src="https://github.com/harutopia0/harutopia0/blob/main/assets/github-stats.png" />
   <br><br>
 </div>
 <div align="center">
@@ -46,7 +46,7 @@
 
 <!-- SKILLS -->
 <div align="center">
-  <img width="450" src="https://github.com/harutopia0/harutopia0/blob/main/assets/skills.png" />
+  <img width="380" src="https://github.com/harutopia0/harutopia0/blob/main/assets/skills.png" />
 </div>
 
 ###### Languages & Syntax:
