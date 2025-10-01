@@ -51,7 +51,7 @@
 
 ###### Languages & Syntax:
 
-<img src="https://github.com/harutopia0/harutopia0/blob/main/assets/workspace.gif" width="400px" align="right"/>
+<img src="https://github.com/harutopia0/harutopia0/blob/main/assets/workspace.gif" width="394px" align="right"/>
 
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/c.svg" alt="C" width="40px" height="40px"/>&nbsp;
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/cpp.svg" alt="Cpp" width="40px" height="40px"/>&nbsp;
