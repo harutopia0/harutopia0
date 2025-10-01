@@ -49,12 +49,12 @@
   <img width="380" src="https://github.com/harutopia0/harutopia0/blob/main/assets/skills.png" />
 </div>
 
+<img src="https://github.com/harutopia0/harutopia0/blob/main/assets/workspace.gif" width="380px" align="right"/>
+
 ###### Languages & Syntax:
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/c.svg" alt="C" width="40px" height="40px"/>&nbsp;
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/cpp.svg" alt="Cpp" width="40px" height="40px"/>&nbsp;
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/csharp.svg" alt="Csharp" width="40px" height="40px"/>
-
-<img src="https://github.com/harutopia0/harutopia0/blob/main/assets/workspace.gif" width="380px" align="right"/>
 
 ###### Development Environments:
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/vscode.svg" alt="Visual Studio Code" width="40px" height="40px"/>&nbsp;
