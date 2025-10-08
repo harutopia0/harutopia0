@@ -28,7 +28,7 @@
   <table align="center">
   <tr>
   <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=harutopia0&theme=transparent&rank_icon=github&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=harutopia0&theme=transparent&rank_icon=github&show_icons=true" />
     <img src="https://streak-stats.demolab.com?user=harutopia0&theme=transparent&mode=daily&border=7E89EB&stroke=54EB5F&ring=EB966C&fire=EB5454&currStreakNum=5BD3EB&sideNums=EB83D9&currStreakLabel=EBEBEB&sideLabels=E5EB94&dates=00EBC4&excludeDaysLabel=9736EB" />
   </td>
   <td width="50%" align="center">
