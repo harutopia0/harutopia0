@@ -20,7 +20,7 @@
 
 <!-- STATS -->
 <div align="center">
-  <img width="900" src="https://github.com/harutopia0/harutopia0/blob/main/assets/github-stats.png" />
+  <img width="850" src="https://github.com/harutopia0/harutopia0/blob/main/assets/github-stats.png" />
   <br><br>
 </div>
 <div align="center">
