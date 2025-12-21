@@ -32,7 +32,7 @@
     <img src="https://harutopia0-streak.vercel.app?user=harutopia0&theme=transparent&mode=daily&border=7E89EB&stroke=54EB5F&ring=EB966C&fire=EB5454&currStreakNum=5BD3EB&sideNums=EB83D9&currStreakLabel=EBEBEB&sideLabels=E5EB94&dates=00EBC4&excludeDaysLabel=9736EB" />
   </td>
   <td width="50%" align="center">
-    <img src="https://harutopia0-stats.vercel.app/api/top-langs/?username=harutopia0&layout=compact&theme=radical&langs_count=8"/>
+    <img src="https://harutopia0-stats.vercel.app/api/top-langs/?username=harutopia0&layout=compact&theme=radical&langs_count=6"/>
   </td>
   </tr>
   </table>
