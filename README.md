@@ -9,7 +9,6 @@
 </div>
 <br><br>
 
-
 <!-- TYPING DATA -->
 [![](https://readme-typing-svg.demolab.com?font=Honk&size=60&duration=4000&pause=1000&color=D659F7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I%E2%80%99m+Khoa!)](https://github.com/harutopia0) <br><br>
 [![](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=50&duration=4000&pause=2000&color=D659F7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!)](https://github.com/harutopia0)
