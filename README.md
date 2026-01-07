@@ -7,6 +7,7 @@
 [![gmail](https://github.com/harutopia0/harutopia0/blob/main/assets/gmail.svg)](mailto:tran67563@gmail.com?subject=Contact%20from%20Github!)
 
 </div>
+
 <br><br>
 
 <!-- TYPING DATA -->
