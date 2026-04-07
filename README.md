@@ -8,17 +8,21 @@
 
 </div>
 
+
 <br><br>
 
 <!-- TYPING DATA -->
+<!--
 [![](https://readme-typing-svg.demolab.com?font=Honk&size=60&duration=4000&pause=1000&color=D659F7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I%E2%80%99m+Khoa!)](https://github.com/harutopia0) <br><br>
 [![](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=50&duration=4000&pause=2000&color=D659F7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!)](https://github.com/harutopia0)
 
 <!-- LINE -->
+<!--
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/line.gif">
 
 
 <!-- STATS -->
+<!--
 <div align="center">
   <img width="850" src="https://github.com/harutopia0/harutopia0/blob/main/assets/github-stats.png" />
   <br><br>
@@ -40,10 +44,12 @@
 
 
 <!-- FADING LINE -->
+<!--
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/fading_line.gif">
 
 
 <!-- SKILLS -->
+<!--
 <div align="center">
   <img width="380" src="https://github.com/harutopia0/harutopia0/blob/main/assets/skills.png" />
 </div>
@@ -73,6 +79,7 @@
 
 
 <!-- LINE -->
+<!--
 <img src="https://github.com/harutopia0/harutopia0/blob/main/assets/line.gif">
 
 
@@ -80,6 +87,8 @@
 
 
 <!-- END -->
+<!--
 <div align="center">
   <img width="700" src="https://github.com/harutopia0/harutopia0/blob/main/assets/lets_catch.gif">
 </div>
+-->
